@@ -1,0 +1,5 @@
+cd Documents/code
+mkdir dzhe0001_Final_Project
+cd dzhe0001_Final_Project
+touch T1Q1.txt
+nano T1Q1.txt
